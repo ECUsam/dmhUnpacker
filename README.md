@@ -6,7 +6,7 @@
 
 需要一提的是，即便资源没有封包游戏也能正常运行，若想封包回去请用作者的封包工具。
 
-封包工具请参考 [東方弾幕風ph3]https://touhougc.web.fc2.com/products/th_dnh_ph3.html
+封包工具请参考 [東方弾幕風ph3](https://touhougc.web.fc2.com/products/th_dnh_ph3.html)
 
 ### 如何使用
 
