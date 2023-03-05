@@ -12,7 +12,5 @@
 
 1.python 3.10+
 
-2.装相关依赖（见requirements.txt）
-
-3.开终端，输入： `python Run.py filepath`
+2.开终端，输入： `python Run.py filepath`
 filepath 为要解包的文件路径
